@@ -1,0 +1,3 @@
+numpy>=1.21
+rdkit>=2020.09
+streamlit
